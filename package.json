@@ -34,5 +34,8 @@
   "engines": {
     "node": ">=20.12.0"
   },
-  "packageManager": "12.4.2"
+  "packageManager": {
+    "name": "pnpm",
+    "version": "^12.0.0"
+  }
 }
